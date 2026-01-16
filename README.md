@@ -26,43 +26,43 @@ Flask-based web architecture with clear separation of concerns
 
 Dynamic routing for:
 
-Home page
+-Home page
 
-Upcoming hiking trails
+-Upcoming hiking trails
 
-Completed hiking trails
+-Completed hiking trails
 
-Integration with the OpenWeather API for real-time weather data
+-Integration with the OpenWeather API for real-time weather data
 
-Trail data managed via structured JSON (location, distance, difficulty, elevation)
+-Trail data managed via structured JSON (location, distance, difficulty, elevation)
 
-Google Maps embeds for visual trail context
+-Google Maps embeds for visual trail context
 
-Modular services layer (weather service, trail service)
+-Modular services layer (weather service, trail service)
 
-Environment-variable–based API key handling (no secrets in code)
+-Environment-variable–based API key handling (no secrets in code)
 
 Technical Focus
 
-Backend logic and data flow over aesthetics
+-Backend logic and data flow over aesthetics
 
-API consumption and error handling
+-API consumption and error handling
 
-Template rendering with Jinja2
+-Template rendering with Jinja2
 
-Clean, readable project structure suitable for extension and deployment
+-Clean, readable project structure suitable for extension and deployment
 
 Why This Project
 
 This application reflects a real-world use case and was designed as a foundation for future enhancements such as:
 
-Elevation profiles
+-Elevation profiles
 
-Photo uploads
+-Photo uploads
 
-User-submitted trails
+-User-submitted trails
 
-Deployment to a public cloud platform
+-Deployment to a public cloud platform
 
 It serves as a flagship portfolio project demonstrating practical backend skills, not just isolated scripts.
 
