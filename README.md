@@ -79,4 +79,4 @@ This project demonstrates:
 
 📫 **Contact me:**  
 lucasanthony.hume@gmail.com  
-[LinkedIn](
+[LinkedIn](www.linkedin.com/in/lucas-hume)
