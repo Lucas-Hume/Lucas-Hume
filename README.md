@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-# 👋 Hi, I'm Lucas
+#  Hi, I'm Lucas
 
 I have a construction management background and I am transitioning into IT and software engineering.  
 Currently studying a Certificate IV in IT (Programming) at TAFE , I'm building my skills in predominenantly **Python** and **C**, with plans to progress into a Diploma of IT (advanced programming) and a Bachelor of Computer Science at UNSW.  
@@ -9,6 +9,7 @@ Currently studying a Certificate IV in IT (Programming) at TAFE , I'm building m
 
 ##  Tech I'm Working With ( or have used in the past)
 - Python (bcrypt, JSON, CLI tools)
+- SQL
 - C Programming
 - Git & GitHub
 - Basic project management tools (Procore, Aconex, Hammertech)
