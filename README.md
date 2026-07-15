@@ -2,7 +2,7 @@
 
 #  Hi, I'm Lucas
 
-I have a construction management background and I am transitioning into IT and software engineering.  
+I have a construction management background and I a have a passion for IT and software engineering.  
 Currently studying a Certificate IV in IT (Programming) at TAFE , I'm building my skills in predominenantly **Python** and **C**, with plans to progress into a Diploma of IT (advanced programming) and a Bachelor of Computer Science at UNSW.  
 
  My background in constructione estimation, project coordination and procurement gives me strong organisational skills, attention to detail, and stakeholder experience — now I’m applying those strengths in the tech space.
@@ -78,6 +78,6 @@ This project demonstrates:
 
 ---
 
-📫 **Contact me:**  
+ **Contact me:**  
 lucasanthony.hume@gmail.com  
 [LinkedIn](www.linkedin.com/in/lucas-hume)
